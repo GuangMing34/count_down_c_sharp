@@ -1,0 +1,3 @@
+由于其他线程拥有此对象，因此调用线程无法对其进行访问。(The calling thread cannot access this object because a different thread owns it)
+解决办法:  http://blog.sina.com.cn/s/blog_962250db0101487n.html
+这个解决办法在代码中有显示
